@@ -1,0 +1,6 @@
+framework module Friday {
+  umbrella header "Friday.h"
+
+  export *
+  module * { export * }
+}
